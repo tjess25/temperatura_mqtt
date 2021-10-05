@@ -10,8 +10,8 @@
 #define DHTTYPE DHT11   
 
 //Datos de WiFi
-const char* ssid = "pinchos";  // Aquí debes poner el nombre de tu red
-const char* password = "01Sricrse00SraD";  // Aquí debes poner la contraseña de tu red
+const char* ssid = "*******";  // Aquí debes poner el nombre de tu red
+const char* password = "*****";  // Aquí debes poner la contraseña de tu red
 const char* pubTopic = "t/oficina";
 
  
